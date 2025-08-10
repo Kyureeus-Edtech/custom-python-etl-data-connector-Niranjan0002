@@ -72,7 +72,7 @@ python polygon-connector/etl_connector.py
 
 ```mermaid
 flowchart LR
-    A[Polygon.io API] -->|JSON Response| B[ETL Connector (etl_connector.py)]
+    A[Polygon.io API] -->|JSON Response| B[ETL Connector etl_connector.py]
     B -->|Transform Data| C[MongoDB]
     C --> D[Data Available for Analysis]
 ```
