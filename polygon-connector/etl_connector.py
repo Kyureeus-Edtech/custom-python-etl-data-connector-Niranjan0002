@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-"""
-etl_connector.py
-Polygon -> MongoDB ETL connector script.
-
-Usage example:
-  python etl_connector.py --ticker AAPL --from 2024-07-01 --to 2024-07-07
-"""
-
 import os
 import time
 import argparse
