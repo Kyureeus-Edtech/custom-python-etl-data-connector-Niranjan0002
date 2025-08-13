@@ -1,0 +1,4 @@
+OTX_API_KEY=your_otx_api_key_here
+MONGO_URI=your_mongodb_connection_uri
+MONGO_DB=your_database_name
+MONGO_COLLECTION=otx_ioc_details_raw
