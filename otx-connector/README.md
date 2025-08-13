@@ -119,5 +119,5 @@ Example document stored in MongoDB after running the ETL connector:
 
 ## Author
 - **Name:** Niranjan B
-- **Roll No:** <your_roll_number>
-- **Section:** <your_section>
+- **Roll No:** 3122225001082
+- **Section:** B
